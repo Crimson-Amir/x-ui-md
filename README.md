@@ -1,4 +1,5 @@
 # 🛡️ 3x-ui Database Manager
+[**🇮🇷 Persian README (راهنمای فارسی)**](README.fa.md)
 
 A powerful, safe, and interactive Bash script to manage, clean, and optimize SQLite databases for **3x-ui** panels on Ubuntu/Debian. 
 
